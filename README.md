@@ -13,7 +13,7 @@ Como Data Scientist Jr busco combinar experiencias adquiridas com análises de V
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/yurifillippo)
-* [Medium](https://www.medium.com)
+* [Medium](https://www.medium.com/@yuri.fillippo)
 
 
 ## Projetos:
