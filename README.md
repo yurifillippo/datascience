@@ -7,7 +7,7 @@
 # Yuri Fillippo
 <sub>*Data Scientist*</sub>
 
-Como Data Scientist Jr busco combinar experiencias adquiricas com análises de Vendas e Supply, com técnicas de Machine Learning, Estatística, Visualização de Dados, Python entre outras.
+Como Data Scientist Jr busco combinar experiencias adquiridas com análises de Vendas e Supply, com técnicas de Machine Learning, Estatística, Visualização de Dados, Python entre outras.
 
 **Background in:** Python, Machine Learning, Advanced Excel, Power BI.
 
