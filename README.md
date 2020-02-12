@@ -18,5 +18,5 @@ Como Data Scientist Jr busco combinar experiencias adquiridas com análises de V
 
 ## Projetos:
 
-* **Digite aqui** link aqui
+* **Analisando dados do AirBnb** http://bit.ly/2UN46iU
 
