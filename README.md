@@ -20,4 +20,5 @@ Como Data Scientist Jr busco combinar experiencias adquiridas com análises de V
 
 * **Analisando dados do AirBnb** http://bit.ly/2UN46iU
 * **Analisando crimes da Cidade de São Paulo** https://bit.ly/38ZClrR
+* **Analisando a Violência no Rio de Janeiro** https://bit.ly/2TiF4ar
 
