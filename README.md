@@ -18,8 +18,8 @@ Como Data Scientist Jr busco combinar experiencias adquiridas com análises de V
 
 ## Projetos:
 
-* **Analisando dados do AirBnb** http://bit.ly/2UN46iU
 * **Analisando crimes da Cidade de São Paulo** https://bit.ly/38ZClrR
 * **Analisando a Violência no Rio de Janeiro** https://bit.ly/2TiF4ar
 * **Análise de vendas históricas de supermercados** https://bit.ly/2UgN0t8
+* **Analisando dados de fraudes de cartões de crédito e aplicando Machine Learning para identificação de fraudes** http:
 
