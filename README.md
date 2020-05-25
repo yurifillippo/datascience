@@ -1,4 +1,4 @@
-[![author](https://logospng.org/download/linkedin/logo-linkedin-icon-256.png)](https://www.linkedin.com/in/yurifillippo) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
+[![author](https://logospng.org/download/linkedin/logo-linkedin-icon-112.png)](https://www.linkedin.com/in/yurifillippo) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
 
 <p align="center">
   <img src="https://github.com/yurifillippo/datascience/blob/master/datascience-1208x604.jpg" >
