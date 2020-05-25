@@ -18,7 +18,7 @@ Como Data Scientist Jr busco combinar experiencias adquiridas com análises de V
 
 ## Projetos:
 
-* **Avaliação de Risco de Crédito** https://bit.ly/2ZfVFz1
+* **Avaliação de Risco de Crédito** https://bit.ly/3efnUCa
 * **Analisando a Violência no Rio de Janeiro** https://bit.ly/2TiF4ar
 * **Análise de vendas históricas de supermercados** https://bit.ly/2UgN0t8
 * **Análise exploratória de fraudes em cartões de crédito e aplicando Machine Learning para identificação de fraudes** https://bit.ly/2WgNcZo
