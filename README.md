@@ -18,8 +18,9 @@ Como Data Scientist Jr busco combinar experiencias adquiridas com análises de V
 
 ## Projetos:
 
-* **Churn Prediction para uma empresa de Telecomunicações** https://bit.ly/3kzuZRe
+* **Churn Prediction para uma empresa de Telecomunicações** https://bit.ly/32ND6U8
+* **Análise exploratória do COVID-19** https://bit.ly/3jzdPnf
 * **Avaliação de Risco de Crédito** https://bit.ly/3efnUCa
 * **Analisando a Violência no Rio de Janeiro** https://bit.ly/2TiF4ar
 * **Análise de vendas históricas de supermercados** https://bit.ly/2UgN0t8
-* **Análise exploratória do COVID-19** https://bit.ly/3jzdPnf
+
